@@ -31,7 +31,7 @@ const translations = {
     cooltraRole: "Cooltra · Shared mobility across Europe", cooltraText: "Led the architecture redesign, SwiftUI move and backend integration of a mobility app used in production.",
     geomotionText: "Built interactive apps and educational games with Swift, UIKit and close work with designers.",
     accentureText: "Built stable business apps for mixed teams and complex client projects.", earlyText: "From Objective-C basics to real-time apps and production data systems.",
-    footerKicker: "Have a bold iOS idea?", footerTitle: "Let’s build it.<br><span>And build it well.</span>", backTop: "Back to top ↑"
+    footerKicker: "Do you have an iOS app idea?", footerTitle: "Let’s build it.<br><span>And build it well.</span>", backTop: "Back to top ↑"
   },
   es: {
     navWork: "Proyectos", navCraft: "Conocimientos", navExperience: "Experiencia", navTalk: "Hablemos",
@@ -65,7 +65,7 @@ const translations = {
     cooltraRole: "Cooltra · Movilidad compartida en Europa", cooltraText: "Lideré el rediseño de arquitectura, la migración a SwiftUI y la integración del backend de una app de movilidad en producción.",
     geomotionText: "Creé apps interactivas y juegos educativos con Swift, UIKit y una colaboración estrecha con el equipo de diseño.",
     accentureText: "Creé apps empresariales estables para equipos mixtos y proyectos de cliente complejos.", earlyText: "Desde las bases de Objective-C hasta apps en tiempo real y sistemas de datos en producción.",
-    footerKicker: "¿Tienes una idea iOS ambiciosa?", footerTitle: "Vamos a crearla.<br><span>Y a crearla bien.</span>", backTop: "Volver arriba ↑"
+    footerKicker: "¿Tienes una idea para una app iOS?", footerTitle: "Vamos a crearla.<br><span>Y a crearla bien.</span>", backTop: "Volver arriba ↑"
   },
   ca: {
     navWork: "Projectes", navCraft: "Coneixements", navExperience: "Experiència", navTalk: "Parlem",
@@ -99,7 +99,7 @@ const translations = {
     cooltraRole: "Cooltra · Mobilitat compartida a Europa", cooltraText: "Vaig liderar el redisseny de l’arquitectura, la migració a SwiftUI i la integració del backend d’una app de mobilitat en producció.",
     geomotionText: "Vaig crear apps interactives i jocs educatius amb Swift, UIKit i una col·laboració estreta amb l’equip de disseny.",
     accentureText: "Vaig crear apps empresarials estables per a equips mixtos i projectes de client complexos.", earlyText: "Des de les bases d’Objective-C fins a apps en temps real i sistemes de dades en producció.",
-    footerKicker: "Tens una idea iOS ambiciosa?", footerTitle: "Fem-la realitat.<br><span>I fem-la bé.</span>", backTop: "Tornar a dalt ↑"
+    footerKicker: "Tens una idea per a una app iOS?", footerTitle: "Fem-la realitat.<br><span>I fem-la bé.</span>", backTop: "Tornar a dalt ↑"
   }
 };
 
