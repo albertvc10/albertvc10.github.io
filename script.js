@@ -71,7 +71,7 @@ const translations = {
     navWork: "Projectes", navCraft: "Coneixements", navExperience: "Experiència", navTalk: "Parlem",
     heroEyebrow: "Enginyer iOS independent · Barcelona",
     heroTitle: "Creo apps iOS.<br><em>Ben pensades.</em>",
-    heroText: "Sóc enginyer iOS amb mentalitat de producte. Creo apps natives amb Swift modern, Apple Intelligence i desenvolupament assistit per IA.",
+    heroText: "Soc enginyer iOS amb mentalitat de producte. Creo apps natives amb Swift modern, Apple Intelligence i desenvolupament assistit per IA.",
     heroAction: "Veure els meus projectes", heroTag: "IA × Producte",
     tickerAgentic: "Desenvolupament agèntic", tickerConcurrency: "Concurrència estricta",
     workNumber: "02 / Projectes destacats", workTitle: "Creats des de zero.<br><span>Utilitzats per persones reals.</span>",
