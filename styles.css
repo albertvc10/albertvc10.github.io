@@ -149,11 +149,13 @@ h1 em { color: var(--acid); font-style: normal; }
 .project-impulse { background: #f4f0ea; color: #17151d; }
 .impulse-gallery { background: radial-gradient(circle at 50% 25%, #9d8bff 0, #4a347a 42%, #1c1831 82%); }
 .glow-orb { position: absolute; width: 560px; height: 560px; border-radius: 50%; background: rgba(179,163,255,.5); filter: blur(80px); left: 6%; top: 14%; }
-.impulse-gallery .phone { transition: transform .5s cubic-bezier(.2,.8,.2,1); }
-.impulse-gallery:hover .phone-back { transform: rotate(-9deg) translate(-18px,-10px); }
-.impulse-gallery:hover .phone-front { transform: rotate(5deg) translate(15px,-10px); }
-.phone-back { left: 6%; top: 14%; transform: rotate(-7deg); }
-.phone-front { right: 7%; bottom: -10%; transform: rotate(4deg); }
+.impulse-gallery .phone { width: clamp(230px, 19vw, 310px); transition: transform .5s cubic-bezier(.2,.8,.2,1); }
+.impulse-one { left: -3%; top: 18%; transform: rotate(-9deg); }
+.impulse-two { left: 30%; top: 7%; z-index: 2; }
+.impulse-three { right: -3%; top: 19%; transform: rotate(9deg); }
+.impulse-gallery:hover .impulse-one { transform: rotate(-12deg) translate(-6px,-12px); }
+.impulse-gallery:hover .impulse-two { transform: translateY(-16px); }
+.impulse-gallery:hover .impulse-three { transform: rotate(12deg) translate(6px,-12px); }
 .gallery-note { position: absolute; z-index: 2; left: 7%; bottom: 7%; color: white; font-size: 28px; font-weight: 700; line-height: 1.05; letter-spacing: -.04em; }
 .project-playfit { grid-template-columns: .92fr 1.08fr; background: #0c0c1c; border: 1px solid #27273b; }
 .project-playfit .project-copy { color: #f7f7fb; }
@@ -281,7 +283,8 @@ h1 em { color: var(--acid); font-style: normal; }
   .project-description { font-size: 14px; }.project-footer { align-items: flex-start; flex-direction: column; }
   .project-gallery { min-height: 570px; }
   .phone { width: 245px; border-radius: 26px; }
-  .phone-back { left: -15%; top: 13%; }.phone-front { right: -10%; bottom: -13%; }
+  .impulse-gallery .phone { width: 205px; }
+  .impulse-one { left: -23%; }.impulse-two { left: 18%; }.impulse-three { right: -24%; }
   .gallery-note { display: none; }
   .project-playfit .project-gallery { min-height: 510px; }
   .playfit-gallery .phone { width: 205px; }
