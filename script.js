@@ -2,7 +2,7 @@ const translations = {
   en: {
     navWork: "Work", navCraft: "Skills", navExperience: "Experience", navTalk: "Let’s talk",
     heroEyebrow: "Independent iOS Engineer · Barcelona",
-    heroTitle: "I build iOS apps.<br><em>Thoughtfully.</em>",
+    heroTitle: "I build iOS apps.<br><em>That’s what I do.</em>",
     heroText: "I’m an iOS engineer with a product mindset. I build native apps with modern Swift, Apple Intelligence and AI-assisted development.",
     heroAction: "See my work", heroTag: "AI × Product",
     tickerAgentic: "Agentic development", tickerConcurrency: "Strict concurrency",
