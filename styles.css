@@ -10,7 +10,10 @@
 }
 
 * { box-sizing: border-box; }
-html { scroll-behavior: smooth; }
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
 body {
   margin: 0;
   overflow-x: hidden;
@@ -251,7 +254,7 @@ h1 em { color: var(--acid); font-style: normal; }
   .hero { grid-template-columns: 1.3fr .7fr; gap: 50px; }
   .project { grid-template-columns: 1fr; }
   .project-gallery { min-height: 760px; }
-  .project-playfit .project-gallery { order: -1; min-height: 650px; }
+  .project-playfit .project-gallery { min-height: 650px; }
   .craft-showcase { grid-template-columns: 1fr; }
   .craft-intro { position: static; display: grid; grid-template-columns: 1fr 1fr; align-items: end; gap: 40px; }
   .craft-intro .section-number { grid-column: 1/-1; }
@@ -265,8 +268,9 @@ h1 em { color: var(--acid); font-style: normal; }
   h1 { font-size: clamp(56px, 17vw, 82px); }
   .hero-text { margin-top: 28px; font-size: 17px; }
   .hero-actions { align-items: flex-start; flex-direction: column; gap: 24px; margin-top: 35px; }
-  .hero-visual { width: 235px; justify-self: end; margin-right: 14px; }
-  .tag-one { left: -35px; }.tag-two { right: -18px; }.hero-index { display: none; }
+  .hero-visual { width: min(220px, calc(100vw - 96px)); max-width: 100%; justify-self: center; margin: 0; }
+  .orbit { inset: -14px; }
+  .tag-one { left: -18px; }.tag-two { right: -12px; }.hero-index { display: none; }
   .work, .craft, .experience { padding: 90px 0; }
   .section-heading, .craft-intro, .experience-heading { grid-template-columns: 1fr; gap: 28px; margin-bottom: 52px; }
   .section-heading .section-number, .craft-intro .section-number { grid-column: 1; }

@@ -29,7 +29,7 @@ const translations = {
     masteryText: "Advanced iOS bootcamp covering Swift, SwiftUI, architecture, testing and Apple platforms.", agenticCourseText: "60-hour course: AI agents, spec-driven development, MCP and Foundation Models.", refreshText: "20-hour workshop: Swift 6, strict concurrency, SwiftData, Swift Testing and modern architecture.", ironhackText: "Intensive iOS bootcamp where I learned the basics of mobile app development.",
     experienceNumber: "04 / Experience", experienceTitle: "11+ years turning complex ideas into <span>simple products.</span>",
     cooltraRole: "Cooltra · Shared mobility across Europe", cooltraText: "Led the architecture redesign, SwiftUI move and backend integration of a mobility app used in production.",
-    geomotionText: "Built interactive apps and educational games with Swift, UIKit and close work with designers.",
+    geomotionText: "Built interactive iOS apps with Swift and UIKit, working closely with designers.",
     accentureText: "Built stable business apps for mixed teams and complex client projects.", earlyText: "From Objective-C basics to real-time apps and production data systems.",
     footerKicker: "Do you have an iOS app idea?", footerTitle: "Let’s build it.<br><span>And build it well.</span>", backTop: "Back to top ↑"
   },
@@ -63,7 +63,7 @@ const translations = {
     masteryText: "Bootcamp avanzado de iOS: Swift, SwiftUI, arquitectura, testing y plataformas Apple en profundidad.", agenticCourseText: "Curso de 60 horas: agentes de IA, desarrollo guiado por especificaciones, MCP y Foundation Models.", refreshText: "Taller de 20 horas: Swift 6, concurrencia estricta, SwiftData, Swift Testing y arquitectura moderna.", ironhackText: "Bootcamp intensivo de iOS donde aprendí las bases del desarrollo de producto móvil.",
     experienceNumber: "04 / Experiencia", experienceTitle: "Más de 11 años convirtiendo ideas complejas en <span>productos sencillos.</span>",
     cooltraRole: "Cooltra · Movilidad compartida en Europa", cooltraText: "Lideré el rediseño de arquitectura, la migración a SwiftUI y la integración del backend de una app de movilidad en producción.",
-    geomotionText: "Creé apps interactivas y juegos educativos con Swift, UIKit y una colaboración estrecha con el equipo de diseño.",
+    geomotionText: "Creé apps iOS interactivas con Swift y UIKit, en estrecha colaboración con el equipo de diseño.",
     accentureText: "Creé apps empresariales estables para equipos mixtos y proyectos de cliente complejos.", earlyText: "Desde las bases de Objective-C hasta apps en tiempo real y sistemas de datos en producción.",
     footerKicker: "¿Tienes una idea para una app iOS?", footerTitle: "Vamos a crearla.<br><span>Y a crearla bien.</span>", backTop: "Volver arriba ↑"
   },
@@ -71,7 +71,7 @@ const translations = {
     navWork: "Projectes", navCraft: "Coneixements", navExperience: "Experiència", navTalk: "Parlem",
     heroEyebrow: "Enginyer iOS independent · Barcelona",
     heroTitle: "Creo apps iOS.<br><em>Ben pensades.</em>",
-    heroText: "Soc enginyer iOS amb mentalitat de producte. Creo apps natives amb Swift modern, Apple Intelligence i desenvolupament assistit per IA.",
+    heroText: "Sóc enginyer iOS amb mentalitat de producte. Creo apps natives amb Swift modern, Apple Intelligence i desenvolupament assistit per IA.",
     heroAction: "Veure els meus projectes", heroTag: "IA × Producte",
     tickerAgentic: "Desenvolupament agèntic", tickerConcurrency: "Concurrència estricta",
     workNumber: "02 / Projectes destacats", workTitle: "Creats des de zero.<br><span>Utilitzats per persones reals.</span>",
@@ -97,7 +97,7 @@ const translations = {
     masteryText: "Bootcamp avançat d’iOS: Swift, SwiftUI, arquitectura, testing i plataformes Apple en profunditat.", agenticCourseText: "Curs de 60 hores: agents d’IA, desenvolupament guiat per especificacions, MCP i Foundation Models.", refreshText: "Taller de 20 hores: Swift 6, concurrència estricta, SwiftData, Swift Testing i arquitectura moderna.", ironhackText: "Bootcamp intensiu d’iOS on vaig aprendre les bases del desenvolupament de producte mòbil.",
     experienceNumber: "04 / Experiència", experienceTitle: "Més d’11 anys convertint idees complexes en <span>productes senzills.</span>",
     cooltraRole: "Cooltra · Mobilitat compartida a Europa", cooltraText: "Vaig liderar el redisseny de l’arquitectura, la migració a SwiftUI i la integració del backend d’una app de mobilitat en producció.",
-    geomotionText: "Vaig crear apps interactives i jocs educatius amb Swift, UIKit i una col·laboració estreta amb l’equip de disseny.",
+    geomotionText: "Vaig crear apps iOS interactives amb Swift i UIKit, en estreta col·laboració amb l’equip de disseny.",
     accentureText: "Vaig crear apps empresarials estables per a equips mixtos i projectes de client complexos.", earlyText: "Des de les bases d’Objective-C fins a apps en temps real i sistemes de dades en producció.",
     footerKicker: "Tens una idea per a una app iOS?", footerTitle: "Fem-la realitat.<br><span>I fem-la bé.</span>", backTop: "Tornar a dalt ↑"
   }
