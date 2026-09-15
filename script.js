@@ -1,7 +1,7 @@
 const translations = {
   en: {
     navWork: "Work", navCraft: "Skills", navExperience: "Experience", navTalk: "Let’s talk",
-    heroEyebrow: "Independent iOS Engineer · Barcelona",
+    heroEyebrow: "Albert Villanueva · Independent iOS Engineer · Barcelona",
     heroTitle: "I build iOS apps.<br><em>That’s what I do.</em>",
     heroText: "I’m an iOS engineer with a product mindset. I build native apps with modern Swift, Apple Intelligence and AI-assisted development.",
     heroAction: "See my work", heroTag: "AI × Product",
@@ -35,7 +35,7 @@ const translations = {
   },
   es: {
     navWork: "Proyectos", navCraft: "Conocimientos", navExperience: "Experiencia", navTalk: "Hablemos",
-    heroEyebrow: "Ingeniero iOS independiente · Barcelona",
+    heroEyebrow: "Albert Villanueva · Ingeniero iOS independiente · Barcelona",
     heroTitle: "Creo apps iOS.<br><em>Bien pensadas.</em>",
     heroText: "Soy ingeniero iOS con mentalidad de producto. Creo apps nativas con Swift moderno, Apple Intelligence y desarrollo asistido por IA.",
     heroAction: "Ver mis proyectos", heroTag: "IA × Producto",
@@ -69,7 +69,7 @@ const translations = {
   },
   ca: {
     navWork: "Projectes", navCraft: "Coneixements", navExperience: "Experiència", navTalk: "Parlem",
-    heroEyebrow: "Enginyer iOS independent · Barcelona",
+    heroEyebrow: "Albert Villanueva · Enginyer iOS independent · Barcelona",
     heroTitle: "Creo apps iOS.<br><em>Ben pensades.</em>",
     heroText: "Soc enginyer iOS amb mentalitat de producte. Creo apps natives amb Swift modern, Apple Intelligence i desenvolupament assistit per IA.",
     heroAction: "Veure els meus projectes", heroTag: "IA × Producte",
